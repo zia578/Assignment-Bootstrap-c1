@@ -1,0 +1,238 @@
+
+body{}
+
+/*-------- nav section end--------*/
+
+.custom-nav{
+    background-color: #fff;
+    padding: 20px 0;
+}
+
+
+/*-------- nav section end--------*/
+
+/*-------- cariusel section start--------*/
+
+.custom-carousel-slide{
+    padding: 10px;
+    border: 1px solid #e2e2e2;
+}
+
+/*-------- cariusel section end--------*/
+
+/*-------- gallery section start--------*/
+
+.custom-cont{
+    width: 980px;
+    margin: 1.5em auto;
+    overflow: hidden;
+    border: 1px solid #d0d0d0;
+}
+
+.gallery-contents{}
+.gallery-contents h2{
+    font-size: 2em;
+    font-weight: 800;
+    text-align: center;
+    color: #28a745;
+    border-color: #28a745;
+}
+
+.gallery{}
+
+.gallery img{}
+
+.custom-button{
+    text-align: center;
+    margin: 10px;
+    padding-top: 5px;
+}
+.custom-button a{
+    border: 1px solid #28a745;
+    padding: 8px 12px;
+    background: #fff;
+    font-weight: 600;
+    font-size: 15px;
+    color: #28a745;
+    text-decoration: none;
+}
+
+.custom-button a:hover{
+    color: #ffffff;
+    background-color: green;
+
+}
+
+
+/*-------- gallery section end--------*/
+
+
+/*-------- card section start--------*/
+
+.custom-card{
+    padding: 10px 0;
+}
+
+.cust-cd{
+    padding: 2px;
+}
+.custom-button-card{
+    margin: 10px;
+    padding-top: 5px;
+
+}
+.custom-button-card a{
+    border: 1px solid #28a745;
+    padding: 8px 12px;
+    background: #fff;
+    font-weight: 600;
+    font-size: 15px;
+    color: #28a745;
+    text-decoration: none;
+}
+
+.custom-button-card a:hover{
+     color: #ffffff;
+    background-color: green;
+}
+/*-------- card section end--------*/
+
+/*-------- button section start--------*/
+.five-type-button{
+    overflow: hidden;
+    border: 1px solid #bfbdbd;
+    padding: 5px 22px;
+    margin: 12px;
+}
+.custom-five-type{
+    width: 65%;
+    display: block;
+    float: left;
+    margin: 4em 0;
+    padding: 10px;
+    border: 1px solid #9e9b9b;
+    text-align: center;
+}
+
+.custom-btn{
+    width: 30%;
+    display: block;
+    float: left;
+    margin: 4em 20px;
+    padding: 10px;
+    border: 1px solid #9e9b9b;
+    text-align: center;
+}
+
+/*-------- button section end--------*/
+
+/*-------- modal and video section start--------*/
+
+.custom-video-modal{}
+
+.cust-modal{
+    width: 25%;
+    float: left;
+    margin: 10em 0;
+    border: 1px solid #a7a7a7;
+    padding: 10px;
+}
+
+.custom-video{
+    width: 70%;
+    float: left;
+    margin: 0px 22px;
+    border: 1px solid #a7a7a7;
+    padding: 6px;
+}
+
+
+/*-------- modal and video section end--------*/
+
+/*-------- nav-dropdown-progress ber section start--------*/
+
+.nav-drop-progress{}
+.cust-tab{
+    width: 32%;
+    float: left;
+    padding: 8px 0px;
+    border: 1px solid #a7a7a7;
+    margin: 6px;
+}
+.nab-tab{font-size: 15px;text-align: center;margin: 21px 0;}
+.nav-tab-a{
+    color: #28a745;
+    border-color: #28a745;
+}
+
+.nav-tab-a:hover{
+    color: #fff;
+    background-color: #28a745;
+    border-color: #28a745;
+}
+
+.drop-tab{
+    text-align: center;
+    margin: 21px 0;
+}
+
+.progress-tab{}
+/*-------- nav-dropdown-progress ber section end--------*/
+
+
+/*-------- form section start--------*/
+.cust-form{}
+.custom-form{
+    margin: 20px 30px;
+    padding: 12px;
+    border: 1px solid #b7b7b7;
+}
+.cust-h5{
+    text-align: center;
+    padding: 10px;
+    color: green;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+/*-------- form section end--------*/
+
+/*-------- footer section end--------*/
+.custom-footer{
+    width: 100%;
+    margin: 0 auto;
+    padding: 5px;
+}
+.cust-nav-footer{
+    width: 35%;
+    margin: 0 auto;
+    text-align: center;
+}
+.cust-nav-footer ul{
+    list-style: none;
+    display: flex;
+}
+.cust-nav-footer ul li{}
+.cust-nav-footer ul li a{
+    text-decoration: none;
+    padding: 6px 12px;
+    color: #39ab3d;
+    background-color: transparent;
+    font-size: 14px;
+    font-weight: 500;
+}
+.cust-nav-footer ul li a:hover{
+    color: #fff;
+    background-color: #28a745;
+    border-color: #28a745;
+}
+
+.cust-h6{
+    width: 100%;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: green;
+}
+/*-------- footer section end--------*/
